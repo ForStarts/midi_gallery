@@ -34,7 +34,7 @@ def main_bg(main_bg):
     )
 
 # 调用
-main_bg(r"C:\Users\HASEE\Pictures\back-picture1.jpg")
+main_bg("back-picture1.jpg")
 
 # 网页基础样式
 st.markdown(
